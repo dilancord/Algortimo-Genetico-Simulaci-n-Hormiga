@@ -1,0 +1,11 @@
+=== Estadísticas de Simulación - 2025-06-09 11:32:33 ===
+
+
+==================================================
+
+Generación: 0
+Pasos: 173
+Puntos: 120
+Alcohol: 5
+Llegó a la meta: Sí
+Tiempo total: 5.20 segundos
